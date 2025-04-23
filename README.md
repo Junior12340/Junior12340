@@ -1,18 +1,13 @@
-👋 Hi, I’m @Junior12340
+👋 Hi, I'm @Junior12340
 
-👀 I’m interested in software development, AI, and cybersecurity. I also enjoy learning about film production and storytelling techniques.
+👀 I'm interested in Artificial Intelligence, Cybersecurity, and working with large-scale databases.
 
-🌱 I’m currently learning Python, web development, and occupational safety practices.
+🌱 I'm currently learning Python, web development, and building Telegram bots.
 
-💞️ I’m looking to collaborate on open-source projects related to education, productivity tools, or community safety.
+💞️ I'm looking to collaborate on projects related to AI, website development, and Telegram bot creation.
 
-📫 How to reach me: abbos.eshdavlatov@icloud.com 
+📫 How to reach me: abbos.eshdavlatov@icloud.com
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I can cook traditional Plov and I’m currently learning German to study abroad in Germany!
-
-<!---
-Junior12340/Junior12340 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⚡ Fun fact: I can cook traditional Uzbek Plov , and I'm currently learning German to study abroad in Germany!
